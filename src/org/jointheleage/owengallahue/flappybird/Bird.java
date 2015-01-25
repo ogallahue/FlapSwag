@@ -8,9 +8,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.geom.AffineTransform;
 import java.awt.image.BufferedImage;
-import java.util.Random;
-
-import javax.swing.Timer;
 
 public class Bird implements ActionListener, KeyListener
 {
